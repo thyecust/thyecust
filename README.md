@@ -2,7 +2,18 @@
 
 Recent News:
 
-* 2020-07-22: Start Reading *CSS: The Definitive Guide - 4e*
+* 2020-07-22
+  * Start Reading *CSS: The Definitive Guide - 4e (CSSDG)*
+  * Start Reading *PROFESSIONAL JAVASCRIPT FOR WEB DEVELOPERS - 4e (PJS)*
+  * CSSDG Chap.1
+
+Working:
+
+* Course Translating
+  * MIT Circuit
+  * MIT Computation Structures
+  * CMU 15122
+  * CMU 15150
 
 <!--
 **thyecust/thyecust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
