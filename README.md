@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Recent News:
+
+* 2020-07-22: Start Reading *CSS: The Definitive Guide - 4e*
+
 <!--
 **thyecust/thyecust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
