@@ -16,6 +16,8 @@ followed conferences
 | DLS    | C    | Symposium on Dynamic Lanuguages                              | 12p    |      |
 | Onward |      | Symposium on New Ideas in Programming and Reflections on Software |        |      |
 
+* https://sigplan.org/OpenTOC/
+
 followed groups
 
 * 荷兰国家软件工程协会, https://www.versen.nl/
