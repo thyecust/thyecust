@@ -1,22 +1,25 @@
 ### Hi there 👋, This is Tianh
 
-Recent News:
+To Read:
 
-* 2020-11-25
-  * Start UPenn CIS341 Compiler! Status: 2/6
-  * Seeking for a master degree /(ㄒoㄒ)/~~
-* 2020-07-22
-  * Start Reading *CSS: The Definitive Guide - 4e (CSSDG)*
-  * Start Reading *PROFESSIONAL JAVASCRIPT FOR WEB DEVELOPERS - 4e (PJS)*
-  * CSSDG Chap.1
+* *CSS: The Definitive Guide - 4e (CSSDG)*
+* *PROFESSIONAL JAVASCRIPT FOR WEB DEVELOPERS - 4e (PJS)*
 
-Working:
+Working at NaiveSystems.
 
-* Course Translating
-  * MIT Circuit
-  * MIT Computation Structures
-  * CMU 15122
-  * CMU 15150
+## PL
+
+followed conferences
+
+| short  | core | full name                                                    | length | note |
+| ------ | ---- | ------------------------------------------------------------ | ------ | ---- |
+| DLS    | C    | Symposium on Dynamic Lanuguages                              | 12p    |      |
+| Onward |      | Symposium on New Ideas in Programming and Reflections on Software |        |      |
+
+followed groups
+
+* 荷兰国家软件工程协会, https://www.versen.nl/
+* KAIST 编程语言研究小组, https://plrg.kaist.ac.kr/home
 
 <!--
 **thyecust/thyecust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
