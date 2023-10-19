@@ -1,5 +1,7 @@
 ### Hi there 👋, This is Tianh
 
+I care about real-world program semantics.
+
 Check my CV: https://github.com/thyecust/cv/blob/main/tianhaoyu-cv.pdf
 
 <!--
