@@ -1,5 +1,7 @@
 ### Hi there 👋, This is Tianh
 
+Better code.
+
 I care about real-world program semantics.
 
 Check my CV: https://github.com/thyecust/cv/blob/main/tianhaoyu-cv.pdf
