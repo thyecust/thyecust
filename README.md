@@ -1,8 +1,10 @@
-### Hi there 👋, This is Tianh
+### Hi there 👋, This is thy
 
 Better code.
 
 I care about real-world program semantics.
+
+[![thy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thyecust)](https://github.com/anuraghazra/github-readme-stats)
 
 Check my CV: https://github.com/thyecust/cv/blob/main/tianhaoyu-cv.pdf
 
