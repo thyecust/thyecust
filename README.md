@@ -8,7 +8,7 @@ I care about real-world program semantics.
 
 Check my CV: [https://github.com/thyecust/cv/blob/main/tianhaoyu-cv.pdf](https://github.com/thyecust/cv/blob/main/tianhaoyu_cv_2506.pdf)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFNZ0WFDYCQFr7VMADTmxLqXDFujqqo47K8q7C6TQGKuv6Cs9bpyhpsTCu4KwGMf1OMwNMnEGFN5uA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="794" height="1152" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+On Google docs: https://docs.google.com/presentation/d/e/2PACX-1vRFNZ0WFDYCQFr7VMADTmxLqXDFujqqo47K8q7C6TQGKuv6Cs9bpyhpsTCu4KwGMf1OMwNMnEGFN5uA/pub?start=false&loop=false&delayms=3000
 
 <!--
 **thyecust/thyecust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
